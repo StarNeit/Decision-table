@@ -6,7 +6,10 @@
 # Node artifact files
 node_modules/
 dist/
-
+venv/
+.venv/
+.pytest_cache/
+.mypy_cache
 # Compiled Java class files
 *.class
 

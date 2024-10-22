@@ -7,14 +7,14 @@ verify_ssl = true
 pytest = "*"
 bandit = "*"
 flake8 = "*"
-black = "==21.6b0"
+black = "*"
 mypy = "*"
 typing_extensions = "*"
 atomicwrites = "*"
+pytest-cov = "*"
 
 [packages]
 pytest = "*"
 
 [requires]
 python_version = "3.9"
-
