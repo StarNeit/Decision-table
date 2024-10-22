@@ -9,5 +9,6 @@ exclude = '''
   | \.pytest_cache
   | \.venv
   | \.vscode
+  | \venv
 )
 '''
